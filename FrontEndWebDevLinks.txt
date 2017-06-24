@@ -1,0 +1,10 @@
+Git Course - need this first:
+https://www.udacity.com/course/how-to-use-git-and-github--ud775
+
+
+First Course for the Web Developer 'degree':
+https://www.udacity.com/course/intro-to-html-and-css--ud304
+
+
+This is the whole program.  You just do each class that it lists for the degree and they are free:
+https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001
